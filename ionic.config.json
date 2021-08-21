@@ -1,0 +1,7 @@
+{
+  "name": "abq-tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
